@@ -1,0 +1,4 @@
+a[href] {
+    text-decoration-thickness: 0.03875em;
+    text-underline-offset: 0.2em;
+    text-decoration-color: hsl(13deg,13%,67%);
